@@ -1,5 +1,5 @@
 📊 HR Analytics Dashboard | Power BI
-📌 Project Overview
+ Project Overview:-
 
 The HR Analytics Dashboard is an interactive Power BI project designed to analyze employee data and provide actionable insights into workforce performance, attrition, demographics, and job satisfaction. It enables HR teams to monitor key metrics, identify trends, and make data-driven decisions.
 
@@ -40,9 +40,6 @@ Average Age
 Average Experience
 📂 Dashboard Preview
 
-HR Analytics Dashboard
-
-(Add your dashboard screenshot here.)
 
 🎯 Business Objective
 
@@ -58,4 +55,4 @@ KPI Development
 Business Intelligence
 HR Data Analysis
 📷 Screenshot
-Link:-(![HR Analytics Dashboard](./Screenshot%202026-08-01%20221127.png)
+(./Screenshot%202026-08-01%20221127.png)
