@@ -58,4 +58,4 @@ KPI Development
 Business Intelligence
 HR Data Analysis
 📷 Screenshot
-Link:-(![HR Analytics Dashboard](./Screenshot%202026-08-01%20221127.png))
+Link:-(![HR Analytics Dashboard](./Screenshot%202026-08-01%20221127.png)
