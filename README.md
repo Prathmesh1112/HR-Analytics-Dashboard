@@ -45,16 +45,6 @@ Average Experience
 
 The primary objective of this dashboard is to help HR professionals monitor employee performance, understand workforce demographics, identify attrition patterns, and support strategic decision-making using interactive visual analytics.
 
-⭐ Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX Calculations
-Dashboard Design
-KPI Development
-Business Intelligence
-HR Data Analysis
-
 
 📷 Screenshot:-
 ![HR Analytics Dashboard](./Screenshot%202026-08-01%20221127.png)
