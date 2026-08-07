@@ -54,5 +54,5 @@ Dashboard Design
 KPI Development
 Business Intelligence
 HR Data Analysis
-📷 Screenshot
-([HR Analytics Dashboard](./Screenshot%202026-08-01%20221127.png)
+📷 Screenshot:-
+![HR Analytics Dashboard](./Screenshot%202026-08-01%20221127.png)
