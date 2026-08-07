@@ -33,6 +33,8 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 🎛️ Interactive Department Slicer
 
 
+
+
 🛠️ Tools & Technologies :- 
 
 1) Microsoft Power BI
@@ -44,6 +46,8 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 4) Data Modeling
 
 5) Data Visualization
+
+   
 
 
 📊 Key Insights :-
@@ -63,6 +67,8 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 
 7) Experience and tenure insights
 
+   
+
 
 📈 Dashboard KPIs :-
 
@@ -78,6 +84,8 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 5) Average Age
 
 6) Average Experience
+
+   
 
 
 
